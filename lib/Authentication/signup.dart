@@ -70,7 +70,7 @@ class _SignUpState extends State<SignUp> {
                           decoration: const InputDecoration(
                               icon: Icon(Icons.person_2_outlined),
                               border: InputBorder.none,
-                              hintText: "Nombre y apellido",
+                              hintText: "Nombre",
                               filled: true,
                               fillColor: Colors.white,
                               enabledBorder: UnderlineInputBorder(
