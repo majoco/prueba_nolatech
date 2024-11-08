@@ -334,7 +334,8 @@ class _BooksState extends State<Books> {
                                     children: [
                                       Align(
                                         alignment: Alignment.centerLeft,
-                                        child: Text(can),
+                                        child: Text(can,
+                                            style: TextStyle(fontSize: 20)),
                                       ),
                                       Align(
                                           alignment: Alignment.centerLeft,
